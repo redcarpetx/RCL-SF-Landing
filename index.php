@@ -35,7 +35,7 @@
 	</div><!-- topbar -->
 	
 	<div class="header-optin container">
-		<div class="col-md-4 col-md-offset-6">
+		<div class="col-md-4 col-md-offset-7">
 			<h1>Have lunch with your hero and help a charity</h1>
 			<!-- Begin MailChimp Signup Form -->
 			<div id="mc_embed_signup">
@@ -49,8 +49,9 @@
 				<div class="mc-field-group">
 					<input type="text" value="Your City" name="CITY" class="mc-input required" id="mce-CITY" onblur="if(this.value == '') { this.value='Your City'}" onfocus="if (this.value == 'Your City') {this.value=''}">
 				</div>
-				<div class="mc-field-group input-group">
-				    <label for="mce-group[12505]-12505-0" class="mc-checkbox-desc"><input type="checkbox" value="1" name="group[12505][1]" id="mce-group[12505]-12505-0" class="mc-checkbox">I am a hero myself, and would love to join your community of influencers.</label>
+				<div class="mc-field-group mc-field-checkbox input-group">
+				    <input type="checkbox" value="1" name="group[12505][1]" id="mce-group[12505]-12505-0" class="mc-checkbox">
+				    <label for="mce-group[12505]-12505-0" class="mc-checkbox-desc">I am a hero myself, and would love to join your community of influencers.</label>
 				</div>
 				<div id="mce-responses" class="clear">
 					<div class="response" id="mce-error-response" style="display:none"></div>
@@ -59,9 +60,9 @@
 			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_da54039adc50d0e7080343808_210c86b076" tabindex="-1" value=""></div>
 			    <div class="clear"><input type="submit" value="Get me on the red carpet!" name="subscribe" id="mc-embedded-subscribe" class="mc-submit"></div>
 			    </div>
+			    <p class="optin-consent">By submitting this form, I agree to the Red Carpet X, Inc Terms of Services and Privacy Policy.</p>
 			</form>
 			</div>
-			<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='CITY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 			<!--End mc_embed_signup-->
 		</div>
 	</div><!-- header-optin -->
