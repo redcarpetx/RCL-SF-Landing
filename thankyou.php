@@ -44,7 +44,8 @@
 	<p>Share with your peeps and we’ll toss in another entry for you!</p>
 	<p>&nbsp;</p>
 	<a href="#" class="social-share-btn"><img src="_assets/rcl-share-facebook.png" alt="Share on Facebook" /></a>
-	<a href="#" class="social-share-btn"><img src="_assets/rcl-share-twitter.png" alt="Share on Twitter" /></a>
+  <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.redcarpetlunch.com" data-text="Check out this awesome site!" data-size="large" data-count="none" data-hashtags="redcarpetlunch">Tweet</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><!--	<a href="#" class="social-share-btn"><img src="_assets/rcl-share-twitter.png" alt="Share on Twitter" /></a> -->
 	<p>&nbsp;</p>
 </div><!-- thankyou -->
 
