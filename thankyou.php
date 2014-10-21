@@ -45,8 +45,8 @@
 	<h2>Help us roll out the red carpet.</h2>
 	<p>Share with your peeps and we’ll toss in another entry for you!</p>
 	<p>&nbsp;</p>
-	<a href="#" class="social-share-btn"><img src="_assets/rcl-share-facebook.png" alt="Share on Facebook" /></a>
-	<a href="#" class="social-share-btn"><img src="_assets/rcl-share-twitter.png" alt="Share on Twitter" /></a>
+        <span class='st_facebook_large' displayText='Facebook' st_url='http://redcarpetlunch.com' st_title='Red Carpet Lunch'></span>
+        <span class='st_twitter_large' displayText='Tweet' st_url='http://redcarpetlunch.com' st_title='Red Carpet Lunch' st_msg='Spread the love about Red Carpet Lunch!'></span>
 	<p>&nbsp;</p>
 </div><!-- thankyou -->
 
