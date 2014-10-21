@@ -39,7 +39,7 @@
 			<h1>Have lunch with your hero and help a charity</h1>
 			<!-- Begin MailChimp Signup Form -->
 			<div id="mc_embed_signup">
-			<form action="tellusmore.php" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
+			<form action="//redcarpetlunch.us9.list-manage.com/subscribe/post?u=da54039adc50d0e7080343808&amp;id=210c86b076" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<div id="mc_embed_signup_scroll">
 				<div class="mc-field-group">
 					<input type="text" value="Your Name" name="FNAME" class="mc-input required" id="mce-FNAME" onblur="if(this.value == '') { this.value='Your Name'}" onfocus="if (this.value == 'Your Name') {this.value=''}">
@@ -57,6 +57,7 @@
 					<div class="response" id="mce-error-response" style="display:none"></div>
 					<div class="response" id="mce-success-response" style="display:none"></div>
 				</div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_da54039adc50d0e7080343808_210c86b076" tabindex="-1" value=""></div>
 			    <div class="clear"><input type="submit" value="Get me on the red carpet!" name="subscribe" id="mc-embedded-subscribe" class="mc-submit"></div>
 			    </div>
 			    <p class="optin-consent">By submitting this form, I agree to the Red Carpet X, Inc Terms of Services and Privacy Policy.</p>
